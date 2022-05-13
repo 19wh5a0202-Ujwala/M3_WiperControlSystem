@@ -16,5 +16,5 @@
 |2_Design|Diagrams|
 |3_Implementation|Documentations and all required files for project|
 |4_TestCases|Test Plans|
-|5_Report|Report pdf|
+|5_Report|Report|
 |6_Output|Output Images|
